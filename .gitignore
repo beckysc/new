@@ -1,0 +1,4 @@
+__pycache__/
+# 個人照片與上架包不放進 git
+shopee/
+*.zip
