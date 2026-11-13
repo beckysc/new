@@ -44,20 +44,31 @@ PRODUCTS = [
         "folder": "02_Graco推車",
         "photos": ["IMG_1258.JPG", "IMG_1262.JPG", "IMG_1261.JPG", "IMG_1259.JPG", "IMG_1263.JPG"],
         "category": "嬰幼兒用品 > 嬰兒推車",
-        "title": "【二手】GRACO 雙向嬰幼兒推車 Carry Travel System 咖啡色 附雨罩",
+        "title": "【二手】GRACO CITINEXT CTS 購物型雙向嬰幼兒手推車 豪華休旅 咖啡色 附雨罩",
         "price": 1800,
         "stock": 1,
         "weight_kg": 8,
         "shipping": "宅配 / 面交",
         "description": (
-            "GRACO 嬰幼兒推車，咖啡卡其配色，支援 Carry Travel System 可搭配提籃。\n\n"
+            "GRACO 購物型雙向嬰幼兒手推車 豪華休旅 CITINEXT CTS，咖啡卡其配色。\n"
+            "（與官網同款，花色不同）\n\n"
+            "【規格】\n"
+            "・適用：滿月起至約 3 歲，體重 15 公斤以下\n"
+            "・展開尺寸：長 93~98 x 寬 53 x 高 97.5~105.5 cm\n"
+            "・收折尺寸：長 37 x 寬 53 x 高 95 cm\n"
+            "・車重：5.8 公斤\n"
+            "・符合美國 ASTM 安全標準\n\n"
+            "【商品特色】\n"
+            "・雙向推把，可面向爸媽或面向前方\n"
+            "・靠背多段式調整\n"
+            "・座椅高度 56 cm，加寬座椅\n"
+            "・全罩式遮陽篷\n"
+            "・立體透氣坐墊\n"
+            "・Carry Travel System，可搭配同品牌提籃\n"
+            "・下方置物籃容量大\n\n"
             "【內容物】\n"
             "・推車本體\n"
             "・透明雨罩\n\n"
-            "【商品特色】\n"
-            "・雙向推把設計\n"
-            "・大遮陽篷\n"
-            "・下方置物籃容量大\n\n"
             "【商品狀況】\n"
             "・功能正常，可正常收折\n"
             "・布料有正常使用痕跡，詳見照片\n\n"
@@ -126,8 +137,8 @@ PRODUCTS = [
         "folder": "05_Hape小騎士平衡車",
         "photos": ["IMG_1271.JPG", "IMG_1270.JPG", "IMG_1272.JPG"],
         "category": "嬰幼兒用品 > 嬰幼兒玩具 > 騎乘玩具",
-        "title": "【近全新】德國 Hape 小騎士平衡車 Little Rider 白色 3歲以上 原盒",
-        "price": 1500,
+        "title": "【全新】德國 Hape 小騎士平衡車 Little Rider 白色 3歲以上 原盒",
+        "price": 1800,
         "stock": 1,
         "weight_kg": 4,
         "shipping": "宅配 / 面交",
@@ -142,8 +153,12 @@ PRODUCTS = [
             "・平衡車（原盒裝）\n"
             "・中文組裝說明書\n\n"
             "【商品狀況】\n"
-            "・近全新，原盒保存"
-            + COMMON_NOTE
+            "・全新未使用，原盒保存（開盒拍照確認內容物）\n\n"
+            "【運送】\n"
+            "外盒較長，無法超商取貨，限宅配或面交。\n\n"
+            "【購買須知】\n"
+            "・有問題歡迎先聊聊\n"
+            "・商品出貨前會再檢查一次"
         ),
     },
     {
